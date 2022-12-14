@@ -1,0 +1,39 @@
+        body{
+    background-color: #000000;
+    margin-left: 1px;
+    margin-right: 1px;
+    color: rgb(255, 255, 255);
+    height: 9px;
+    
+
+        }
+
+
+        article{
+            text-align: center;
+            
+            }
+
+
+            header{
+                display: flex;
+                flex-wrap: nowrap;
+
+            }
+
+            .logo{
+        height:10% ;
+        width: 10%;
+            }
+
+            .slogan{
+                margin-left: 25%;
+        
+            }
+
+            .linksite{
+        margin-left: 2%;
+
+            }
+
+            
